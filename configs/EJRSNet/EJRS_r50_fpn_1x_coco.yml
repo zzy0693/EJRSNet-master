@@ -1,0 +1,12 @@
+_BASE_: [
+  '../datasets/coco_detection.yml',
+  '../runtime.yml',
+  '_base_/EJRS_r50_fpn.yml',
+  '_base_/optimizer_1x.yml',
+  '_base_/EJRS_reader.yml',
+]
+
+weights: output/tood_r50_fpn_1x_coco/model_final
+find_unused_parameters: True
+log_iter: 100
+

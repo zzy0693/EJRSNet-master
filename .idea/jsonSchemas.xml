@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JsonSchemaMappingsProjectConfiguration">
+    <state>
+      <map>
+        <entry key="HTTP 客户端环境文件">
+          <value>
+            <SchemaInfo>
+              <option name="name" value="HTTP 客户端环境文件" />
+              <option name="relativePathToSchema" value="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/schemas/http-client.env-schema.json" />
+              <option name="applicationDefined" value="true" />
+              <option name="patterns">
+                <list>
+                  <Item>
+                    <option name="path" value="configs/ttfnet/_base_/optimizer_10x.yml" />
+                  </Item>
+                </list>
+              </option>
+            </SchemaInfo>
+          </value>
+        </entry>
+      </map>
+    </state>
+  </component>
+</project>
