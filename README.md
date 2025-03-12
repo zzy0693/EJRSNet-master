@@ -33,7 +33,7 @@ GPU single-card training
 
 ```
 Acknowledgement
-The implementation of MADet is based on PaddleDetection.
+The implementation of EJRSNet is based on PaddleDetection.
 
 License
 This project is released under the Apache 2.0 license.
