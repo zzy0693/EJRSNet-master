@@ -18,7 +18,7 @@ Paddle=2.4.2;
 
 | Backbone | Model | Images/GPU | Inf time (fps) | Box AP |   Config    | Download |
 |:------:|:--------:|:----------:|:--------------:|:------:|:-----------:|:--------:|
-| R-50 | EJRSNet  |     1      |     12.41      |  44.0  | [config](https://github.com/zzy0693/EJRSNet-master/blob/master/configs/EJRSNet/EJRS_r50_fpn_1x_coco.yml) | [model](https://drive.google.com/drive/folders/1XOw8pOEM1jEU87XWjjlmArn92XqFVTVg?usp=sharing) |
+| R-50 | EJRSNet  |     1      |     12.41      |  44.0  | [config](https://github.com/zzy0693/EJRSNet-master/blob/master/configs/EJRSNet/EJRS_r50_fpn_1x_coco.yml) | [model](https://drive.google.com/file/d/1o0D5us9b94gjjvgIetruEJwywjdHGm0C/view) |
 
 ## Run command
 
