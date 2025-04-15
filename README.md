@@ -33,10 +33,9 @@ GPU single-card training
 
 ```
 Acknowledgement
+
 The implementation of EJRSNet is based on PaddleDetection.
 
-License
-This project is released under the Apache 2.0 license.
 ```
 ## Citations
 @inproceedings{zhang2024ejrsnet,
