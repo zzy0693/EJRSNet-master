@@ -22,7 +22,7 @@ Paddle=2.4.2;
 
 ## Run command
 
-The run commands still follow the PaddleDetection library command format. For example, the training model configuration command: python train.py -c configs/tood/tood_r50_fpn_1x_coco.yml --eval.
+The run commands still follow the PaddleDetection library command format. For example, the training model configuration command: python train.py -c configs/EJRSNet/EJRS_r50_fpn_1x_coco.yml --eval.
 
 **Notes:**
 
